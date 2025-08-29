@@ -13,7 +13,7 @@ const geistMono = Geist_Mono({
 });
 
 export const metadata: Metadata = {
-  title: "Jobify Dev",
+  title: "Jobify dev",
   description: "job application tracking system for job hunters",
 };
 
